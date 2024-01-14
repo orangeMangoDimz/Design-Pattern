@@ -7,3 +7,6 @@ Ada class **User** yang memiliki fungsi **Pay** untuk menentukan jenis payment y
 
 ## Output
 ![output](./src/img/screenshot/output.png)
+
+## Class Diagram
+![class_diagram](./src/img/screenshot/Strartegy.png)

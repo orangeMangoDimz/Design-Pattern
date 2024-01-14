@@ -7,3 +7,6 @@ Ada class **Patient** yang akan berubah - ubah perilakunya sesuai dengan kondisi
 
 ## Output Sample
 ![output](./src/img/screenshot/output.png)
+
+## Class Diagram
+![class_diagram](./src/img/screenshot/State.png)

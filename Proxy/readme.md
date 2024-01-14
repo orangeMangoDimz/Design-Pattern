@@ -7,3 +7,6 @@ Ada class **User** yang bisa melakukan fungsi **login** dari class **UserProxy**
 
 ## Output Sample
 ![output](./src/img/screenshot/output.png)
+
+## Class Diagram
+![class_diagram](./src/img/screenshot/Proxy.png)

@@ -7,3 +7,6 @@ Ada class **Pizza** dengan beberapa jenis class Pizza lain, seperti CheesePizza,
 
 ## Output Sample
 ![output](./src/img/screenshot/output.png)
+
+## Class Diagram
+![class_diagram](./src/img/screenshot/Decorator.png)

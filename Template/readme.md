@@ -7,3 +7,6 @@ Ada class **Product** yang memiliki bebreapa fungsi yang siap untuk digunakan un
 
 ## Output Sample
 ![output](./src/img/screenshot/output.png)
+
+## Class Diagram
+![class_diagram](./src/img/screenshot/Template.png)
