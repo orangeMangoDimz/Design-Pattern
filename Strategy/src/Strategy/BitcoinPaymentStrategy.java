@@ -1,4 +1,4 @@
-package model;
+package Strategy;
 
 public class BitcoinPaymentStrategy implements PaymentStrategy{
     @Override

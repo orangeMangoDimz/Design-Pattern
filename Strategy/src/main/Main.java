@@ -1,11 +1,12 @@
 package main;
 
-import model.CreditPaymentStrategy;
-import model.PaymentStrategy;
+import Strategy.CreditPaymentStrategy;
+import Strategy.PaymentStrategy;
+import model.User;
 
 public class Main {
     public static void main(String[] args) {
-        PaymentStrategy payment = new CreditPaymentStrategy();
-        payment.pay(20000);
+        User user = new User("Dimas");
+        user.pay(new CreditPaymentStrategy(), 200000);
     }
 }

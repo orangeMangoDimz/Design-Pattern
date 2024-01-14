@@ -1,4 +1,4 @@
-package model;
+package Strategy;
 
 public class CreditPaymentStrategy implements PaymentStrategy{
     @Override
